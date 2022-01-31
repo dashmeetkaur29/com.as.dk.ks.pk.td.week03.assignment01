@@ -1,0 +1,48 @@
+/* Date - 25 January 2022
+Author - Kulwinder Singh
+Description - CSS Page for the Final result and group members names
+*/
+@charset "UTF-8";
+body{
+	margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+   
+    
+}
+img{
+	height: 120px;
+	width:200px;
+	margin:30px;
+}
+.result{
+	background-color:pink;
+	
+	border:2px;
+	padding:45px;
+	
+	margin:30px 150px 50px 370px;
+	width:300px;
+    justify-content: left;
+}
+div{
+	background-color:pink;
+	border:2px;
+	padding:45px;
+	
+	margin:40px 150px 50px 370px;
+	width:300px;
+	
+}
+div p{
+	font-size:20px;
+	color:green;
+	width:300px;
+	margin:1px;
+	padding-bottom:20px;
+	text-align:center;
+}
+ul{
+	color:red;
+}

@@ -1,0 +1,36 @@
+/* Date - 25 January 2022
+Author - Kulwinder Singh
+Description - CSS Page for the Marks form
+*/
+@charset "UTF-8";
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+}  
+.marks{  
+        width: 300px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin-top:120px;
+        padding: 30px;  
+        background: grey;  
+        border-radius: 15px ;  
+        text-align:center;
+
+}
+#sheet{
+	float:left;
+	color:blue;
+}
+input{
+	background-color:white;
+}
+#submit{
+	float:Center;
+	margin:10px;
+	font-size:15px;
+	border-radius:5px;
+}
